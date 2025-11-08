@@ -1,5 +1,5 @@
 // URL de la API de Render
-const API_URL = "https://chatcito-3-3.onrender.com";
+const API_URL = "https://chatcito-3-3.onrender.com/chat";
 
 // Función para enviar un mensaje
 async function enviarMensaje() {
